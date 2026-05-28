@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 Junior Backend Developer focused on PHP and web application architecture.
 
 ## Tech Stack
-- PHP
-- MySQL
-- JavaScript
-- HTML & CSS
-- Git & GitHub
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
 
 ## Current Project
 ### Stayly
