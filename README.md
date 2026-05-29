@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 Junior Backend Developer focused on PHP and web application architecture.
 
 ## Tech Stack
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" width="40"/>        
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,git,github" />
+  </a>
+</p>
           
 
 ## Current Project
 ### Stayly
-Booking platform focused on property and user management.
+Booking platform where users can register, authenticate, manage properties, and create reservations using a custom PHP MVC architecture and MySQL relational database.
 
 ## Currently Learning
 - Better backend architecture
