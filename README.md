@@ -19,7 +19,7 @@ Junior Backend Developer focused on PHP and web application architecture.
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,git,github" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,js,git,github" />
   </a>
 </p>
           
