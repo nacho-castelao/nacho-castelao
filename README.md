@@ -19,7 +19,7 @@ Junior Backend Developer focused on PHP and web application architecture.
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,git,github" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,git" />
   </a>
 </p>
           
@@ -31,4 +31,4 @@ Booking platform where users can register, authenticate, manage properties, and 
 ## Currently Learning
 - Better backend architecture
 - MVC patterns
-- JavaScript
+- Laravel
