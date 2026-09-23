@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Nacho 👋
 
-Junior Backend Developer focused on PHP and web application architecture.
+Junior Backend Developer focused on backend and web application architecture.
 
 ## Tech Stack
 <p align="center">
